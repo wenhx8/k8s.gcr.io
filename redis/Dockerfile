@@ -1,1 +1,1 @@
-from k8s.gcr.io/redis:v1
+FROM k8s.gcr.io/redis:v1
